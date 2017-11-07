@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Security
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: msoberanis
+Implementation-Vendor-Id: com.plenumsoft
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/vuzee-securi
+ ty/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
