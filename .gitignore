@@ -1,4 +1,4 @@
-/vuzee-web/src/main/webapp/resources/
-/vuzee-entities/target/
-/vuzee-core/target/
-/vuzee-web/target/
+/vuzee-web/src/main/webapp/resources/*
+/vuzee-entities/target/*
+/vuzee-core/target/*
+/vuzee-web/target/*

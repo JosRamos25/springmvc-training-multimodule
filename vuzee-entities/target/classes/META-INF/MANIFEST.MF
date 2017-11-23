@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Entities
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: msoberanis
+Built-By: jramos
 Implementation-Vendor-Id: com.plenumsoft
-Build-Jdk: 1.8.0_144
+Build-Jdk: 1.8.0_51
 Implementation-URL: http://projects.spring.io/spring-boot/vuzee-entiti
  es/
 Created-By: Maven Integration for Eclipse
